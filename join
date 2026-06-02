@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gå med - Soffan FF</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="js/script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo-container">
+                <img src="soffanfflogga.png" alt="Soffan FF Logga">
+            </div>
+            <nav>
+              <ul class="menu">
+                <li><a href="/">Startsida</a></li>
+                <li>
+                    <a href="#">Om</a>
+                    <ul class="dropdown">
+                        <li><a href="schema">Schema</a></li>
+                        <li><a href="kontakt">Kontakt</a></li>
+                        <li><a href="medlemskap">Medlemskap</a></li>
+                        <li><a href="sponsorer">Sponsorer</a></li>
+                        <!--<li><a href="franvaro">Franvaro</a></li>
+                        -->                    </ul>
+                </li>
+                <li><a href="/">Gå Med</a></li>
+            </ul>
+            </nav>
+          </header>
+        <!-- Header Section -->
+        <div class="content-container">
+        <main>
+                           <h2>Gå med i Soffan FF</h2>
+                <p> Vill du gå med i Soffan FF?</p>
+                <br/>
+                <p>Först och främst är det viktigt att du håller med om våra grundtankar. </p>
+                <br>
+                    <p>Grundtanke 1, vi vill vara en positiv fläkt i korpen. </p>
+                    <p>Vi ska sprida glädje, passion och sportmanskap gentemot medspelare, motspelare, dommare och alla runtomkring.</p>
+                    <p>Allt som vi säger, hur vi går in i en närkamp, och hur vi generellt agerar ska genomsyras av detta.</p>
+                        <br>
+                    <p>Grundtanke 2, vi vill lite mer än korpen 1 gång i veckan. Vi vill faktiskt spela 2 gånger i veckan.</p>
+                    <p>Varför vi från början bildade föreningen var för att träna tilsammans. </p>
+                    <p>Detta är något vi verkligen upskattar och jobbar för att tillsammans blir bättre på.</p>
+                    <p>Vi har inget större mål med detta i nuläget mer än att vi verkligen uppskattar att träna och ha kul med varandra.</p>
+                    <br>
+                    <p>Om detta låter bra så skicka ett mail till jesper.johansson@soffanff.se</p>
+                    <p>Det går även bra att endast vara med på träningar</p>
+        </main>
+    </div>
+        
+        
+        <footer>
+            <p></p>
+        </footer>
+    </div>
+</body>
+</html>
